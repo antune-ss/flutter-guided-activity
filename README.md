@@ -1,9 +1,9 @@
-# Atividade Guiada 01 - Desenvolvimento Mobile (PUC-Campinas)
+# Atividade Guiada - Desenvolvimento Mobile (PUC-Campinas)
 
-Este repositório contém o código desenvolvido para a **Atividade Guiada 01** da disciplina de Tecnologia e Programação para Dispositivos Móveis de Sistemas de Informação.
+Este repositório contém o código desenvolvido para as **Atividades Guiadas** da disciplina de Tecnologia e Programação para Dispositivos Móveis de Sistemas de Informação.
 
-## Objetivo
-Configuração do ambiente de desenvolvimento do zero, instalação do Flutter SDK (versão estável) e criação da estrutura inicial de um aplicativo móvel estruturado em camadas.
+## Objetivos
+- **01**: Configuração do ambiente de desenvolvimento do zero, instalação do Flutter SDK (versão estável) e criação da estrutura inicial de um aplicativo móvel estruturado em camadas.
 
 ## Estrutura do Projeto (Camadas)
 A pasta `lib/` foi organizada seguindo as boas práticas de arquitetura recomendadas:
